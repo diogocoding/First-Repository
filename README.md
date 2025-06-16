@@ -1,2 +1,2 @@
 # Hello, Wolrd!
-First repository from "Curso de Git e GitHub em vídeo Gustavo Guanabara"
+First repository from "Curso em vídeo de Git e GitHub Gustavo Guanabara"
